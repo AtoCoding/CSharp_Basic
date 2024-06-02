@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ato\\Desktop\\2_Summer24\\PRN212\\CSharp\\Day_01\\BasicTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626C4162-190D-42CD-B127-3D67F2DB65B4}|ALotOfTools\\ALotOfTools.csproj|c:\\users\\ato\\desktop\\2_summer24\\prn212\\csharp\\day_01\\basictool\\alotoftools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626C4162-190D-42CD-B127-3D67F2DB65B4}|ALotOfTools\\ALotOfTools.csproj|solutionrelative:alotoftools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ato\\Desktop\\2_Summer24\\PRN212\\CSharp\\Day_01\\BasicTool\\ALotOfTools\\Program.cs",
+              "RelativeDocumentMoniker": "ALotOfTools\\Program.cs",
+              "ToolTip": "C:\\Users\\Ato\\Desktop\\2_Summer24\\PRN212\\CSharp\\Day_01\\BasicTool\\ALotOfTools\\Program.cs",
+              "RelativeToolTip": "ALotOfTools\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:00:32.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
